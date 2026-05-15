@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Lang
+![My Skills](https://skillicons.dev/icons?i=unity,c++,c#,rider,brainfuck,visualstudio,vscode,github,figma)
+
