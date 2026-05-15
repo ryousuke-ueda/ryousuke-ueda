@@ -1,5 +1,8 @@
-# うっひょ〜〜〜！！
+# Unityが大好きな情報系高専生です
 
-## Lang
-![My Skills](https://skillicons.dev/icons?i=unity,cpp,cs,rider,brainfuck,visualstudio,vscode,github,figma)
+## General
+楽しんでやってる情報系プログラマです。
+FPSゲームも好きです。
+## Langage
+![My Skills](https://skillicons.dev/icons?i=unity,cpp,cs,rider,visualstudio,vscode,github,figma,python)
 
